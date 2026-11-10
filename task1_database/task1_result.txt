@@ -1,0 +1,5 @@
+    login    | orders_in_delivery
+-------------+--------------------
+ Cherepashka |                  2
+ Kotik       |                  2
+(2 rows)
